@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Showab+Ahammad+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Lover+%E2%9D%A4%EF%B9F8F" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Showab+Ahammad+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 </div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -15,8 +12,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 - 💬 Ask me about: Python, React, FastAPI, Go, Flutter, LangChain
 - 📫 Reach me: aran20272027@gmail.com
 - ⚡ Fun fact: I've built 7+ full-stack projects covering AI, Web, and Mobile
-
----
 
 ## 🛠️ Tech Stack
 
@@ -49,8 +44,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI & Machine Learning
@@ -73,8 +66,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 |---|---|---|
 | [🧭 Fluent Browser](https://github.com/showab/flutter-browser) | Modern Android browser with tabs, desktop mode, downloads & bookmarks | Flutter + Dart + WebView |
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -86,8 +77,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -95,8 +84,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 <img src="https://github-profile-trophy.vercel.app/?username=showab&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -106,8 +93,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -116,8 +101,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran20272027@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
