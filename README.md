@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 - 🔭 Currently building: **Fluent Browser** (Flutter Android Browser)
 - 🌱 Always learning: AI Agents, MLOps, System Design
 - 💬 Ask me about: Python, React, FastAPI, Go, Flutter, LangChain
-- 📫 Reach me: aran20272027@gmail.com
+- 📫 Reach me: showab110@gmail.com / +8801300753266
 - ⚡ Fun fact: I've built 7+ full-stack projects covering AI, Web, and Mobile
 
 ---
@@ -113,7 +113,7 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/showab)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran20272027@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:showab110@gmail.com)
 
 </div>
 
@@ -121,7 +121,7 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** from Bangladesh 
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* — $ Showab Ahamamd 
 
 <img src="https://komarev.com/ghpvc/?username=showab&color=4A90D9&style=flat-square&label=Profile+Views" />
 
